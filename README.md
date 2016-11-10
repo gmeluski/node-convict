@@ -1,4 +1,6 @@
-# Node-convict
+# Webpack-convict
+
+Modified from node-convict to work with browser based apps.
 
 [![NPM version](http://img.shields.io/npm/v/convict.svg)](https://www.npmjs.org/package/convict)
 [![Dependency Status](https://david-dm.org/mozilla/node-convict.svg)](https://david-dm.org/mozilla/node-convict)
